@@ -1,0 +1,29 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "schoolar rep.",
+  "source": "src/index.html",
+  "main": "index.js",
+  "dependencies": {
+    "parcel": "^2.0.0",
+    "save": "^2.4.0",
+    "simplelightbox": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailsin/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihailsin/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/mihailsin/goit-js-hw-08#readme"
+}
