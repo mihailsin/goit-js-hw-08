@@ -5,6 +5,8 @@
   "source": "src/index.html",
   "main": "index.js",
   "dependencies": {
+    "@vimeo/player": "^2.16.1",
+    "lodash.throttle": "^4.1.1",
     "parcel": "^2.0.0",
     "save": "^2.4.0",
     "simplelightbox": "^2.9.0"
