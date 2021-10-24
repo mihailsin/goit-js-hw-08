@@ -30,7 +30,6 @@ const lightbox = new SimpleLightbox('.gallery a', {
 
 const onClick = e => {
   e.preventDefault();
-  console.log(e.target);
   if (e.target.nodeName !== 'IMG') {
     return;
   } else {

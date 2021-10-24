@@ -1,4 +1,4 @@
-16070
+16072
 107D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\fs-write-stream-atomic\test\slow-close.js121436361000000000 0
 86D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\public-encrypt\test\index.js121436361000000000 0
 91D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\fast-glob\out\readers\stream.d.ts121436361000000000 0
@@ -72,7 +72,7 @@
 104D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-supports-api.js121436361000000000 0
 80D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss\lib\comment.js121436361000000000 0
 110D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss-selector-parser\dist\selectors\combinator.js121436361000000000 0
-49D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist132795485076386805 1
+49D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist132795624545499026 1
 66D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\escalade132794725961675115 1
 74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\save\.travis.yml132026537080000000 0
 113D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\uncss\node_modules\postcss-selector-parser\CHANGELOG.md121436361000000000 0
@@ -124,7 +124,7 @@
 79D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jake\lib\parseargs.js132361568290000000 0
 65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel132794725563811709 1
 93D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\modules\esnext.map.every.js121436361000000000 0
-62D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\02-video.html132794584740000000 0
+62D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\02-video.html132795521680370675 0
 68D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\extsprintf132794725953409560 1
 78D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_getRawTag.js121436361000000000 0
 103D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\modules\es.typed-array.int32-array.js121436361000000000 0
@@ -141,7 +141,7 @@
 74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\xtend\mutable.js121436361000000000 0
 85D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\string_decoder\package.json132794725745239847 0
 82D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\ajv\lib\dot\validate.jst121436361000000000 0
-65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\03-feedback.html132795463631620281 0
+65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\03-feedback.html132795492727281402 0
 86D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\uri-js\dist\es5\uri.all.d.ts121436361000000000 0
 52D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\css132794724229484077 1
 73D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\pn\test\load.js130625486170000000 0
@@ -174,7 +174,7 @@
 82D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\vm-browserify\test\vm.js121436361000000000 0
 64D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\base-x132794725799873373 1
 82D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@trysound\sax\lib\sax.js121436361000000000 0
-65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\js\01-gallery.js132794845466438189 0
+65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\js\01-gallery.js132795621873749028 0
 121D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss-modules-extract-imports\node_modules\color-name\LICENSE130953959930000000 0
 97D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\gyroscope.js121436361000000000 0
 99D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jsdom\lib\jsdom\living\svg\SVGListBase.js121436361000000000 0
@@ -187,13 +187,13 @@
 64D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\nwsapi132794725870151943 1
 127D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\lmdb-store\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt121436361000000000 0
 92D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\asn1.js\lib\asn1\encoders\index.js121436361000000000 0
-63D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\js\02-video.js132794857316711386 0
+63D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\js\02-video.js132795624541100498 0
 87D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\https-browserify\package.json132794725920021153 0
 64D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@iarna132794725522963902 1
 106D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jsdom\lib\jsdom\living\helpers\validate-names.js121436361000000000 0
 80D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\string-hash\.npmignore131313260540000000 0
 77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\ws\lib\websocket.js121436361000000000 0
-66D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\js\03-feedback.js132795485074787703 0
+66D:\Users\MSin\Documents\GitHub\goit-js-hw-08\src\js\03-feedback.js132795541448045310 0
 94D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\lib\UncommittedAsset.js121436361000000000 0
 87D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\utils\src\throttle.js121436361000000000 0
 118D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss-modules-local-by-default\node_modules\chalk\index.js121436361000000000 0
@@ -265,6 +265,7 @@
 102D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\workers\src\threads\ThreadsWorker.js121436361000000000 0
 76D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\mime-types\LICENSE121436361000000000 0
 75D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\fastq\example.mjs121436361000000000 0
+70D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.2151aaeb.js132795624545499026 0
 77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\mingo\dist\mingo.js131461668720000000 0
 77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\statuses\HISTORY.md131666749230000000 0
 87D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\webidl-conversions\LICENSE.md131313103850000000 0
@@ -6234,7 +6235,7 @@
 82D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\json-source-map\index.js121436361000000000 0
 110D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss-modules-scope\node_modules\postcss\README.md121436361000000000 0
 75D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\lodash\isError.js121436361000000000 0
-77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.6f462fd0.css.map132795482615119585 0
+77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.6f462fd0.css.map132795620966994710 0
 88D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\es-abstract\2020\SplitMatch.js121436361000000000 0
 115D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss-modules-scope\node_modules\postcss\lib\at-rule.js121436361000000000 0
 115D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\css-modules-loader-core\node_modules\source-map\README.md131369414900000000 0
@@ -7235,7 +7236,7 @@
 74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jsdom\lib\api.js121436361000000000 0
 99D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\fast-json-stable-stringify\example\str.js121436361000000000 0
 75D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\object-is\LICENSE121436361000000000 0
-74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.8a464a69.js.map132795482614610951 0
+74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.8a464a69.js.map132795520859188100 0
 79D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\object-is\polyfill.js121436361000000000 0
 74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\levn\lib\cast.js130958406150000000 0
 102D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\transformer-html\lib\dependencies.js121436361000000000 0
@@ -8370,7 +8371,7 @@
 78D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseTimes.js121436361000000000 0
 80D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\colord\plugins\cmyk.js121436361000000000 0
 81D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseToNumber.js121436361000000000 0
-73D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.2908f44e.js132795485076386805 0
+73D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.2908f44e.js132795620966964782 0
 98D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jsdom\lib\jsdom\living\mutation-observer132794725420273231 1
 109D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jsdom\lib\jsdom\living\generated\BlobPropertyBag.js121436361000000000 0
 81D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\lodash\_baseToString.js121436361000000000 0
@@ -13489,7 +13490,7 @@
 101D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\internals\numeric-range-iterator.js121436361000000000 0
 92D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\internals\object-create.js121436361000000000 0
 101D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\internals\object-define-property.js121436361000000000 0
-68D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\index.55763276.css132795482614561080 0
+68D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\index.55763276.css132795620967253233 0
 116D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\node-libs-browser\node_modules\safe-buffer\LICENSE121436361000000000 0
 108D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\internals\object-get-own-property-names.js121436361000000000 0
 110D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\internals\object-get-own-property-symbols.js121436361000000000 0
@@ -13667,7 +13668,7 @@
 102D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\features\string\virtual\fontcolor.js121436361000000000 0
 101D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\features\string\virtual\fontsize.js121436361000000000 0
 101D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\features\string\virtual\includes.js121436361000000000 0
-65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.html132795482615270562 0
+65D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.html132795620966954828 0
 101D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\features\string\virtual\iterator.js121436361000000000 0
 102D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\features\string\virtual\match-all.js121436361000000000 0
 100D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\core-js\features\string\virtual\pad-end.js121436361000000000 0
@@ -14274,7 +14275,7 @@
 89D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BZ.js121436361000000000 0
 89D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CF.js121436361000000000 0
 89D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CK.js121436361000000000 0
-72D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\index.55763276.css.map132795482614640869 0
+72D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\index.55763276.css.map132795620967324935 0
 89D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CL.js121436361000000000 0
 89D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CM.js121436361000000000 0
 89D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\CO.js121436361000000000 0
@@ -15348,7 +15349,7 @@
 99D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\dist\SourceMap.js.flow121436361000000000 0
 90D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\dist\utils.js121436361000000000 0
 95D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\dist\utils.js.flow121436361000000000 0
-63D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.html132795482615270562 0
+63D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.html132795620966954828 0
 98D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\dist\wasm-bindings.js121436361000000000 0
 103D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow121436361000000000 0
 96D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\runtime-service-worker\LICENSE121436361000000000 0
@@ -16058,14 +16059,15 @@
 72D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\.bin\uncss.cmd132794726019059552 0
 71D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\.bin\uuid.ps1132794726018759824 0
 68D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\.bin\which132794726018859555 0
-73D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.6f462fd0.css132795482615099642 0
-72D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.82441ea8.js132795482614521187 0
-76D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.82441ea8.js.map132795482614600982 0
-70D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.8a464a69.js132795482614521187 0
-77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.2908f44e.js.map132795485076386805 0
-74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.cbe2e478.css132795482614561080 0
-78D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.cbe2e478.css.map132795482614610951 0
-66D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.html132795482615270562 0
-75D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.356c6128.js132795482614531164 0
-79D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.356c6128.js.map132795482614600982 0
-60D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\index.html132795482614850312 0
+73D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.6f462fd0.css132795620966954828 0
+72D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.82441ea8.js132795621874860266 0
+76D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\01-gallery.82441ea8.js.map132795621874890172 0
+74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.2151aaeb.js.map132795624545499026 0
+70D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\02-video.8a464a69.js132795520859157937 0
+77D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.2908f44e.js.map132795620966994710 0
+74D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.cbe2e478.css132795620967263193 0
+78D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.cbe2e478.css.map132795620967324935 0
+66D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\03-feedback.html132795620966954828 0
+75D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.356c6128.js132795620967293121 0
+79D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\goit-js-hw-08.356c6128.js.map132795620967384798 0
+60D:\Users\MSin\Documents\GitHub\goit-js-hw-08\dist\index.html132795620967024978 0
