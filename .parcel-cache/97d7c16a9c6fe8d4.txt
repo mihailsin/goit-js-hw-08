@@ -16,7 +16,7 @@
 86D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\postcss-svgo\dist\lib\url.js121436361000000000 0
 75D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\crypto-browserify132794725693748505 1
 93D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\alt-an.js121436361000000000 0
-55D:\Users\MSin\Documents\GitHub\goit-js-hw-08\.gitignore132794721945220054 0
+55D:\Users\MSin\Documents\GitHub\goit-js-hw-08\.gitignore132795750482615114 0
 66D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\jake\bin132794725340862624 1
 70D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\bcrypt-pbkdf132794725724390114 1
 103D:\Users\MSin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src\public\MutableBundleGraph.js121436361000000000 0
