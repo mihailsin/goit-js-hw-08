@@ -25,7 +25,7 @@ const storageValuesLogger = () => {
   const values = localStorage.getItem(FORM_FIELDS_KEY);
   const parsedValues = JSON.parse(values);
   const storageObj = {
-    mail: parsedValues.userMail,
+    email: parsedValues.userMail,
     message: parsedValues.userMessage,
   };
   console.log(storageObj);
