@@ -21,9 +21,20 @@ const onFormInput = e => {
 
 const throttled = throttle(onFormInput, 500);
 
+const storageValuesLogger = () => {
+  const values = localStorage.getItem(FORM_FIELDS_KEY);
+  const parsedValues = JSON.parse(values);
+  const storageObj = {
+    mail: parsedValues.userMail,
+    message: parsedValues.userMessage,
+  };
+  console.log(storageObj);
+};
+
 const onFormSubmit = e => {
   e.preventDefault();
-  console.log(localStorage.getItem(FORM_FIELDS_KEY));
+  // console.log(localStorage.getItem(FORM_FIELDS_KEY));
+  storageValuesLogger();
   e.currentTarget.reset();
   localStorage.removeItem(FORM_FIELDS_KEY);
 };
