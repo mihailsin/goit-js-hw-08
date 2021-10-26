@@ -12,7 +12,9 @@ const iframe = document.querySelector('#vimeo-player');
 const player = new Vimeo.Player(iframe);
 const CURRENT_TIME_KEY = 'videoplayer-current-time';
 
-player.setCurrentTime(localStorage.getItem(CURRENT_TIME_KEY));
+if (localStorage.getItem(CURRENT_TIME_KEY)) {
+  player.setCurrentTime(localStorage.getItem(CURRENT_TIME_KEY));
+}
 
 const onPlay = e => {
   player
