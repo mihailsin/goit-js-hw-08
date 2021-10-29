@@ -1,3 +1,4 @@
+const { entries } = require('lodash');
 const throttle = require('lodash.throttle');
 
 const formRef = document.querySelector('.feedback-form');
@@ -7,49 +8,34 @@ const formRef = document.querySelector('.feedback-form');
 // При загрузке страницы проверяй состояние хранилища, и если там есть сохраненные данные, заполняй ими поля формы. В противном случае поля должны быть пустыми.
 // При сабмите формы очищай хранилище и поля формы, а также выводи объект с полями email, message и текущими их значениями в консоль.
 // Сделай так, чтобы хранилище обновлялось не чаще чем раз в 500 миллисекунд. Для этого добавь в проект и используй библиотеку lodash.throttle.
-const FORM_FIELDS_KEY = 'feedback-form-state';
-const email = formRef.elements.email;
-const message = formRef.elements.message;
-
-const onFormInput = e => {
-  const userData = {
-    userMail: email.value,
-    userMessage: message.value,
-  };
-  localStorage.setItem(FORM_FIELDS_KEY, JSON.stringify(userData));
-};
-
-const throttled = throttle(onFormInput, 500);
-
-const storageValuesLogger = () => {
-  const values = localStorage.getItem(FORM_FIELDS_KEY);
-  const parsedValues = JSON.parse(values);
-  const storageObj = {
-    email: parsedValues.userMail,
-    message: parsedValues.userMessage,
-  };
-  console.log(storageObj);
-};
-
-const onFormSubmit = e => {
-  e.preventDefault();
-  // console.log(localStorage.getItem(FORM_FIELDS_KEY));
-  storageValuesLogger();
-  e.currentTarget.reset();
-  localStorage.removeItem(FORM_FIELDS_KEY);
-};
-
-const populateTextMessage = () => {
-  const currentInputValues = localStorage.getItem(FORM_FIELDS_KEY);
-  if (currentInputValues) {
-    const parsedInputValues = JSON.parse(currentInputValues);
-
-    email.value = parsedInputValues.userMail;
-    message.value = parsedInputValues.userMessage;
+const STORAGE_KEY = 'feedback-form-state';
+const obj = {};
+const initForm = () => {
+  const savedData = localStorage.getItem(STORAGE_KEY);
+  if (savedData) {
+    const parsedData = JSON.parse(savedData);
+    Object.entries(parsedData).forEach(([name, value]) => {
+      formRef.elements[name].value = value;
+      obj[name] = value;
+    });
   }
 };
 
-populateTextMessage();
+initForm();
 
-formRef.addEventListener('input', throttled);
-formRef.addEventListener('submit', onFormSubmit);
+console.log(formRef.elements);
+const onSubmit = e => {
+  e.preventDefault();
+  const formData = new FormData(formRef);
+  formData.forEach((x, y) => {
+    console.log(x, y);
+  });
+};
+formRef.addEventListener('submit', onSubmit);
+
+const onInput = e => {
+  obj[e.target.name] = e.target.value;
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
+  console.log(obj);
+};
+formRef.addEventListener('input', onInput);
